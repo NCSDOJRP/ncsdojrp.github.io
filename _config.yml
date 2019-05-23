@@ -1,0 +1,33 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: 
+title: San Andreas Department of Justice Roleplay
+email: lcypser@gmail.com
+author: Logan Cypser
+description: > # "Write an awesome description for your new site here. 
+  SADOJRP, This is the website for the official SADOJRP FiveM server. It is a whitelisted server that has a CAD/MDT system, Hundreds of Custom Cars, Active Staff, and Experienced Developers.
+copyright: 'Copyright &copy; 2019 Logan Cypser. All Rights Reserved.'
+credits: 
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/logan.cypser/
+  - title: github
+    url: https://github.com/LoganCyp
+  - title: reddit
+    url: https://paypal.com
+

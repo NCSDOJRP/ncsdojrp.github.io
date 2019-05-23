@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Join SADOJRP
+description: |
+---
+  Joining SADOJRP is very simple, just have a copy of GTA V, download FiveM, and your set. Go to direct connect and type in the SADOJRP Server IP, which is `Insert IP Here`, click here for more [Information](https://servers.fivem.net/servers/detail/), we have an active 20 slot whitelisted server, that includes a vMenu, a CAD System, and Various Custom Cars. There are various discord integrations, custom scripts, vehicles, and maps. 

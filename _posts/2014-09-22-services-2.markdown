@@ -1,0 +1,18 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Discord & Applications
+description: |
+---
+  Our discord contains a CAD System, Technical FiveM Support from developers, Custom Cars, Staff Applications, and much more. Click to join our [discord](https://discord.gg/). Going more in depth, you can apply for FAA, Police Departments, Fire Department, Dispatcher, Certified Civilian, or Staff. Here is a brief synopsis of each application.
+
+
+  - FAA Application : Enables you to fly planes and/or helicopters, it also enables you to be an Air Unit or MedEvac Unit in a Police Department or Fire Department.
+
+  - Staff Application : Enables you to be staff, gives you permissions to enforce rules for the server, we tend to accept active people that show professionalism and maturity with roleplay.
+
+  - Police Departments & Fire Department : Enables you to be a Law Enforcement Officer or a Fireman / EMS. 
+
+  - Certified Civilian : Gives you special perks including more custom cars, this is basically a status that shows you have good and mature roleplay.
+

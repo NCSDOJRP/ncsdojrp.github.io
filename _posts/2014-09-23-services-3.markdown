@@ -1,0 +1,14 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Open Positions
+description: |
+---
+We at SADOJRP are always look for people that are experienced in various fields, at the moment we need people for:
+
+- Owner : 1
+- Management : 4
+- Staff Team : 8 
+- Support Team & Discord Moderator : 2
+- CAD Management : 4
